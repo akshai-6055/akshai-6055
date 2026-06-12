@@ -8,34 +8,22 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,mysql,mongodb,git,linux,vscode)](https://skillicons.dev)
-
 ---
-
 ## 👨‍💻 About Me
-I'm an MCA student and aspiring Full Stack Developer from Kerala, India.
--  MCA Student
--  Full Stack Developer
--  Learning React, Node.js, Express.js, Blockchain & Machine Learning
--  Interested in Web Development App Development and Software Engineering
+I'm an MCA student and aspiring Full Stack Developer from Pathanamthitta Kerala, India.
+I enjoy building scalable web applications, solving real-world problems, and learning modern technologies. Currently exploring Full Stack Development, Blockchain, and Machine Learning while strengthening my skills in software engineering.
 
 ## 🛠 Skills
-
 ### Languages
-Java • JavaScript • C/C++ • SQL Python
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,php,pyhton)](https://skillicons.dev)
 
-### Frameworks
-Node.js • Express.js • React
-
+### Web technologies
+[![My Skills](https://skillicons.dev/icons?i=html5,css,django)](https://skillicons.dev)
 ### Databases
-MySQL • MongoDB
-
+[![My Skills](https://skillicons.dev/icons?i=,mysql,mongodb)](https://skillicons.dev)
 ### Tools
-Git • Linux • VS Code
+[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode)](https://skillicons.dev)
 
-## Projects 
-- Online Internship Tracker Website
-- Quiz/Assessment App
 - ## Contact
 - LinkedIn: www.linkedin.com/in/akshai-raj-577210362
 - Email: akshai293@gmail.com.com
