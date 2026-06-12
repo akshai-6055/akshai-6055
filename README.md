@@ -5,12 +5,12 @@
 
 [![Email](https://img.shields.io/badge/Email-akshai293@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:akshai293@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/akshai-6055)
 
 ---
 ## 👨‍💻 About Me
 I'm an MCA student and aspiring Full Stack Developer from Pathanamthitta Kerala, India.
-I enjoy building scalable web applications, solving real-world problems, and learning modern technologies. Currently exploring Full Stack Development, Blockchain, and Machine Learning while strengthening my skills in software engineering.
+I enjoy building scalable web applications, solving real-world problems, and learning modern technologies.
 ---
 ## 🛠 Skills
 ### Languages
